@@ -57,7 +57,6 @@ body {
 .images .image1 {
     background: black url(./lista-imagens/6.jpg) center center no-repeat;
     background-size: cover;
-    opacity: 3;
 }
 
 .images .image2 {
